@@ -1,0 +1,19 @@
+
+.contain
+{
+    border: 2px solid cadetblue;
+    text-align: center;
+    border-radius: 10px;
+    background: aliceblue;
+    padding-bottom: 10px;
+}
+body
+{
+    background: #dde9ef;
+}
+#row
+{
+    border: 1px solid #E91E63;
+    border-radius: 10px;
+    box-shadow: 0 0 0px 0px #E91E63;
+}
